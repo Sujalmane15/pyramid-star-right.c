@@ -1,0 +1,1 @@
+# pyramid-star-right.c
